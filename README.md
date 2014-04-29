@@ -3,7 +3,7 @@
 Skapat av Stig Lundmark, stig@stilun.de som en del i kursen "Databasdrivna webbapplikationer med PHP och MVC" på Blekinge Tekniska Högskola.
 Baserat på ramverket Stilun av Mikael Roos, lärare på BTH.
 
-##Installation av MyStilun
+##Installation av Stilun
 
 1. Klona ramverket från GitHub `git clone git://github.com/stilun/stilun.git` eller gå in på `https://github.com/stilun/stilun` och ladda ner det som en zip-fil och lägg filerna på en lämplig plats i din dator. Öppna ramverket med `cd stilun` i Git Bash eller i Terminal.  
 
